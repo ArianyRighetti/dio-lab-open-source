@@ -25,10 +25,10 @@
 [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFB6C1)
 
 ## 🩷 OS
-	![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=FFB6C1)
+	![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFB6C1)
 
 ## 🩷 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFB6C1)](https://github.com/ArianyRighetti)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFB6C1)](mailto:arianymarcondess@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariany-righetti-b42820346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFB6C1)](https://www.linkedin.com/in/ariany-righetti-b42820346)
