@@ -12,8 +12,7 @@
  
 
 ## 🩷 My Status
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arianyrighetti&theme=bear&background=000000&border=FFC0CB&dates=FFC0CB&ring=FFC0CB&fire=FF69B4&currStreakLabel=FFC0CB)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arianyrighetti&theme=transparent&bg_color=000000&border_color=FFC0CB&show_icons=true&icon_color=FFC0CB&title_color=FFC0CB&text_color=FFC0CB)
 
 ## 🩷 Markup and style languages
 
