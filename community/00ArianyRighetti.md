@@ -23,9 +23,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFB6C1)
 
-## 🩷 OS
-	![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFB6C1)
-
 ## 🩷 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFB6C1)](https://github.com/ArianyRighetti)
