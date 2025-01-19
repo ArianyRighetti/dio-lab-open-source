@@ -13,7 +13,7 @@
 
 ## 🩷 My Status
 
-([![GitHub Streak](https://streak-stats.demolab.com/?user=arianyrighetti&theme=bear&background=000&border=FFC0CB&dates=FFC0CB&ring=FFC0CB&fire=FF69B4&currStreakLabel=FFC0CB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arianyrighetti&theme=bear&background=000000&border=FFC0CB&dates=FFC0CB&ring=FFC0CB&fire=FF69B4&currStreakLabel=FFC0CB)](https://git.io/streak-stats)
 
 ## 🩷 Markup and style languages
 
