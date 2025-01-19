@@ -22,7 +22,7 @@
 
 ## 🩷 Programming Languages
 
-[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFB6C1)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFB6C1)
 
 ## 🩷 OS
 	![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFB6C1)
